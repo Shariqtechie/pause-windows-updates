@@ -1,27 +1,27 @@
 <div align="center">
 
-```
+<pre>
 ██╗    ██╗██╗   ██╗██████╗ ███╗   ███╗
 ██║    ██║██║   ██║██╔══██╗████╗ ████║
 ██║ █╗ ██║██║   ██║██████╔╝██╔████╔██║
 ██║███╗██║██║   ██║██╔═══╝ ██║╚██╔╝██║
 ╚███╔███╔╝╚██████╔╝██║     ██║ ╚═╝ ██║
  ╚══╝╚══╝  ╚═════╝ ╚═╝     ╚═╝     ╚═╝
-```
+</pre>
 
 **Windows Update Pause Manager**
 
 *Freeze Windows Updates. Any date. One click. Zero bloat.*
 
-[![Windows 10](https://img.shields.io/badge/Windows-10%20Pro-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com)
-[![Windows 11](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com)
-[![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![UAC Ready](https://img.shields.io/badge/UAC-Auto--Elevate-orange?style=flat-square&logo=shield&logoColor=white)](https://github.com)
-[![No Background Services](https://img.shields.io/badge/CPU%20Idle-0%25-brightgreen?style=flat-square)](https://github.com)
+[![Windows 10](https://img.shields.io/badge/Windows-10%20Pro-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/Shariqtechie/pause-windows-updates)
+[![Windows 11](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows&logoColor=white)](https://github.com/Shariqtechie/pause-windows-updates)
+[![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/Shariqtechie/pause-windows-updates/blob/main/LICENSE)
+[![UAC Ready](https://img.shields.io/badge/UAC-Auto--Elevate-orange?style=flat-square&logo=shield&logoColor=white)](https://github.com/Shariqtechie/pause-windows-updates)
+[![No Background Services](https://img.shields.io/badge/CPU%20Idle-0%25-brightgreen?style=flat-square)](https://github.com/Shariqtechie/pause-windows-updates)
 
 ---
 
-<img src="screenshot.png" alt="WUPM Preview" width="680"/>
+<img src="screenshot.png" alt="WUPM Preview" width="420"/>
 
 ---
 
@@ -130,6 +130,6 @@ MIT — see [`LICENSE`](LICENSE) for details.
 > *This utility edits registry flags associated with Windows Update Settings.*
 > *Run updates occasionally to keep your system secure.*
 
-**[⬇️ Download Latest Release](#)** · **[🐛 Report Bug](#)** · **[💡 Request Feature](#)**
+**[⬇️ Download Latest Release](https://github.com/Shariqtechie/pause-windows-updates/releases)** · **[🐛 Report Bug](https://github.com/Shariqtechie/pause-windows-updates/issues)** · **[💡 Request Feature](https://github.com/Shariqtechie/pause-windows-updates/issues)**
 
 </div>
